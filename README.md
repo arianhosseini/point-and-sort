@@ -1,12 +1,12 @@
 # point-and-sort
-example of using pointer networks to sort a list 
+example of using pointer networks to sort a list
 
+--still in progress
 
 
 
 
 
 #References
-[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
-[Pointer Networks](https://arxiv.org/abs/1506.03134)
-
+*[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+*[Pointer Networks](https://arxiv.org/abs/1506.03134)
